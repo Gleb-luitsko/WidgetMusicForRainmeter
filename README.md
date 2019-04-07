@@ -22,6 +22,7 @@
 * Расширение WebNowPlaying
   * [Chrome](https://chrome.google.com/webstore/detail/webnowplaying-companion/jfakgfcdgpghbbefmdfjkbdlibjgnbli)
   * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/webnowplaying-companion/)
+* Сайт [Rainmeter](https://www.rainmeter.net/)
 * [Исходники расширения WebNowPlaying](https://github.com/tjhrulz/WebNowPlaying-BrowserExtension)
 * [Исходники плагина WebNowPlaying](https://github.com/tjhrulz/WebNowPlaying)
 * [Автор расширения и плагина WebNowPlaying](https://github.com/tjhrulz)
