@@ -1,17 +1,10 @@
 # Музыкальный виджет
 ![alt text](https://github.com/Gleb-luitsko/WidgetMusicForRainmeter/blob/master/Images/screenshot1.jpg)
 ## Установка
-**Способ №1:**
 1. Установить Rainmeter
 2. Установить расширение WebNowPlaying
 3. Открыть файл install.rmskin
 4. Нажать install
-
-**Способ №2**
-1. Установить Rainmeter
-2. Установить расширение WebNowPlaying
-2. Пересестить папку Music в "%USERPROFILE%\Documents\Rainmeter\Skins\"
-3. Переместь содержимое папки Plugins в "%USERPROFILE%\Documents\Rainmeter\Skins\@Vault\Plugins
 
 ## Включение виджета
 1. Откройте настройки Rainmeter<br />
