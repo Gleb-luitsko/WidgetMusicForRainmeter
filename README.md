@@ -2,7 +2,7 @@
 ![alt text](https://github.com/Gleb-luitsko/WidgetMusicForRainmeter/blob/master/Images/screenshot1.jpg)
 ## Установка
 1. Установить Rainmeter
-2. Установить расширение WebNowPlaying
+2. Установить расширение для браузера WebNowPlaying
 3. Открыть файл install.rmskin
 4. Нажать install
 
