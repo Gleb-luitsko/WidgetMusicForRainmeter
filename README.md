@@ -1,4 +1,5 @@
 # Музыкальный виджет
+![alt text](https://github.com/Gleb-luitsko/WidgetMusicForRainmeter/blob/master/Images/screenshot1.jpg)
 ## Установка
 **Способ №1:**
 1. Установить Rainmeter
