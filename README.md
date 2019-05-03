@@ -11,7 +11,7 @@
 ![alt text](https://github.com/Gleb-luitsko/WidgetMusicForRainmeter/blob/master/Images/screenshot2.jpg)
 2. Выберите нужный виджет и нажмите загрузить<br />
 MusicHide.ini - виджет будет скрыватся при закрытом сайте<br />
-MusicHide.ini - виджет не будет скрыватся при закрытом сайте<br />
+MusicNoHide.ini - виджет не будет скрыватся при закрытом сайте<br />
 ![alt text](https://github.com/Gleb-luitsko/WidgetMusicForRainmeter/blob/master/Images/screenshot3.jpg)
 
 ## Ссылки
