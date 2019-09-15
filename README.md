@@ -1,5 +1,5 @@
 # Музыкальный виджет
-![alt text](https://github.com/Gleb-luitsko/WidgetMusicForRainmeter/blob/master/Images/screenshot1.jpg)
+![alt text](https://github.com/gleb-liutsko/WidgetMusicForRainmeter/blob/master/Images/screenshot1.png)
 ## Установка
 1. Установить Rainmeter
 2. Установить расширение для браузера WebNowPlaying
